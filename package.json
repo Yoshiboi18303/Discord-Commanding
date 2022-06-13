@@ -1,0 +1,52 @@
+{
+  "name": "discord-commanding",
+  "version": "1.0.0",
+  "description": "A discord.js Command Handler designed to be easy to use!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoshiboi18303/Discord-Commanding.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "discordjs",
+    "command",
+    "commands"
+  ],
+  "authors": [
+    "Yoshiboi18303",
+    "FHGDev"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoshiboi18303/Discord-Commanding/issues"
+  },
+  "homepage": "https://github.com/Yoshiboi18303/Discord-Commanding#readme",
+  "dependencies": {
+    "@joshdb/core": "^1.2.5",
+    "@joshdb/sqlite": "^1.1.9",
+    "bufferutil": "^4.0.3",
+    "colors": "^1.4.0",
+    "erlpack": "^0.1.3",
+    "fs": "0.0.1-security",
+    "libsodium-wrappers": "^0.7.9",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.13.7",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "utf-8-validate": "^5.0.5",
+    "zlib-sync": "^0.1.7"
+  },
+  "devDependencies": {
+    "@types/libsodium-wrappers": "^0.7.9",
+    "@types/ms": "^0.7.31",
+    "@types/node-fetch": "^2.5.12",
+    "discord.js": "^12.5.3",
+    "prettier": "2.4.1"
+  }
+}
